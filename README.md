@@ -2,7 +2,9 @@
 
 An advanced Hospital Management System built using the MERN Stack (MongoDB, Express.js, React, Node.js). It simplifies and automates patient–doctor interactions, appointment bookings, medical records management, and real-time SMS notifications. The system supports secure multi-role access for Admins, Doctors, and Patients.
 
-✨ Key Features
+# Key Features
+
+
 👥 Multi-User Login System
 Admin Dashboard: Manage doctors, appointments, user data, and system analytics.
 

@@ -1,7 +1,5 @@
 # MEDICARE-BOOKING
 
-
-🏥 MERN Stack Hospital Management System
 An advanced Hospital Management System built using the MERN Stack (MongoDB, Express.js, React, Node.js). It simplifies and automates patient–doctor interactions, appointment bookings, medical records management, and real-time SMS notifications. The system supports secure multi-role access for Admins, Doctors, and Patients.
 
 ✨ Key Features
